@@ -44,8 +44,10 @@ gx=bx/ax
 console.log('the Remainder of ',bx, 'by', ax, 'is equal to :', fx)
 console.log('the quetont of',bx, 'by', ax, 'is equal to', gx )
 
-first_person = 'sonu \t'
-second_person = 'monu'
+// ab two string value ko add krte hai
+
+first_person = 'sonu \t' //yaha ham \t se 1 tab space le rhe hai, normal sabhi programming language jaisa 
+second_person = 'monu'  // ham \n v le skte hai line change krne k liye
 
 final_combo = first_person + second_person;
 
