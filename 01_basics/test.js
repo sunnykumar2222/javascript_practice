@@ -9,3 +9,8 @@ var c = "Apna"
 
 // agar aapko multiple variable ko 1 baar me print krna hai to aise kar skte hai
 console.table([xyz, abc, a, b, c]) 
+
+
+sunny=4
+manjeet=2
+console.log(sunny<manjeet)
