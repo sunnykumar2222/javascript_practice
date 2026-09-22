@@ -13,4 +13,5 @@ console.table([xyz, abc, a, b, c])
 
 sunny=4
 manjeet=2
-console.log(sunny<manjeet)
+console.log(sunny<manjeet) 
+
