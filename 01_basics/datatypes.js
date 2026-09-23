@@ -48,3 +48,7 @@ console.table([a, b, c, d, e])
 
 console.log(typeof "a") // iska use krte hai kissi v variable/value ka datatype check krne k lye, jaise python me type of() function ka use hota tha waise hi yaha v hota hai, kissi ka v data type check krne k liye
 console.table([typeof a, typeof b, typeof c, typeof d, typeof e])
+
+console.log(typeof null) // jab ham datatype check karenge null ka to wo hame output deta hai "object"
+console.log(typeof undefined) // undefined ka output undefined hi aata hai kuiki ye 1 apne aap me data type hai, wahi null jo hai wo 1 object datatype hai as a value treat hota hai
+
