@@ -11,3 +11,11 @@ console.log("hello")
 
 //alert( 3 + 3)
 
+console.log(3 + 3);  console.log("sunny") // dekho aise v ham likh skte hai par code readiabilty ye accha nhi hai, hame dushre line me yahi extra code ko likhna chahiye tha
+
+console.log(3 
+    +
+    3         // ham aise v likh skte hai par ye acchi practice nhi hai isse codee readiablity ghati hai
+
+)   
+
