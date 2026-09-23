@@ -43,3 +43,8 @@ console.table([a, b, c, d, e])
 // symbol => ye v 1 data type hota hai iska use react me jada hota hai kuiki ye unique value ko mark krne me maddad krta haia , jaise HTML/CSS me Id & Class krte the waise hi
 // object
 
+
+// aaaiye ab kuch aur keywords dehte hai jo hame bhot maddad karega
+
+console.log(typeof "a") // iska use krte hai kissi v variable/value ka datatype check krne k lye, jaise python me type of() function ka use hota tha waise hi yaha v hota hai, kissi ka v data type check krne k liye
+console.table([typeof a, typeof b, typeof c, typeof d, typeof e])
