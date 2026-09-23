@@ -12,6 +12,9 @@ console.table([xyz, abc, a, b, c])
 
 
 sunny=4
-manjeet=2
+manjeet="4"
 console.log(sunny<manjeet) 
+
+console.log(sunny==manjeet) // yaha(==) bas value check krta hai
+console.log(sunny===manjeet) // ye(===) sirf value hi nhi checkkrta hai, ye strictely datatypes v check krta hai
 
