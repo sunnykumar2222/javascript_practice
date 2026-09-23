@@ -19,3 +19,27 @@ console.log(3
 
 )   
 
+// Lets study the real data types of javascripts
+
+let a="ssss"
+let b = 3
+
+let c = null;
+
+let d;
+
+let e= true;
+
+console.table([a, b, c, d, e])
+
+// datatypes
+
+// number => iska size 2 ka pwer 53/54 jitna hota hai , jaise ham "int" ka dekhte the
+// big int => iska use hota hai jaha number ki size khatam hoti hai, matlab waha jaha more size ka value chahiye than normal number datatypes 100000000000000000000000000, iskause lagbhag nhi hi hota hai
+// string 
+// boolean => true/false
+// undefined => yaha pe jo "d" variable hai wo abhi undefined hai, isme ham baad me value dalenge, isliiye ye abhi undefined kahlaayega
+// null => ye v 1 datatype hai, lakin ye apne aap me 1 standalone vale hai,yaha pe null 1 value ki tarah treat hoga
+// symbol => ye v 1 data type hota hai iska use react me jada hota hai kuiki ye unique value ko mark krne me maddad krta haia , jaise HTML/CSS me Id & Class krte the waise hi
+// object
+
